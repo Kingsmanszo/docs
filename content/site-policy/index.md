@@ -21,3 +21,4 @@ children:
   - /site-policy-deprecated
 ---
 
+ban permanent all bgmi youtube channel and bgmi krafton game company 
